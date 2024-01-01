@@ -1,0 +1,14 @@
+{
+  "name": "dom-projects-chaiaurcode",
+  "version": "1.0.0",
+  "description": "Practice Projects for JS: Chai aur Code",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Vaibhav",
+  "license": "ISC"
+}
