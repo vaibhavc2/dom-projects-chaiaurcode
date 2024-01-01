@@ -11,10 +11,10 @@
   "editor.tabCompletion": "off",
   "editor.autoClosingBrackets": "never",
   "editor.autoClosingQuotes": "never",
-  "editor.autoIndent": "none",
   "editor.autoSurround": "never",
   "editor.formatOnType": false,
   "editor.formatOnPaste": false,
+  "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {},
   "javascript.validate.enable": false,
   "typescript.validate.enable": false,
@@ -28,5 +28,6 @@
   "typescript.suggest.autoImports": false,
   "github.copilot.enable": {
     "*": false
-  }
+  },
+  "editor.tabSize": 2
 }
