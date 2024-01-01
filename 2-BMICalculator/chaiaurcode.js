@@ -1,4 +1,4 @@
-const calculate = (e) => {
+const calculate = () => {
   const height = document.getElementById("height").value;
   const weight = document.getElementById("weight").value;
   const bmi = (weight/(height * height)) * 100 * 100;
