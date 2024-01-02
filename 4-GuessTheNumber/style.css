@@ -20,18 +20,6 @@ body {
   padding: 7px;
 }
 
-button {
-  background-color: #141414;
-  color: #fff;
-  width: 250px;
-  height: 50px;
-  border-radius: 25px;
-  font-size: 30px;
-  border-style: none;
-  margin-top: 30px;
-  /* margin-left: 50px; */
-}
-
 #subt {
   background-color: #161616;
   color: #ffffff;

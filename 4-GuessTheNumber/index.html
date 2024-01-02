@@ -25,12 +25,13 @@
             <label2 for="guessField" id="guess">Guess a number</label>
             <input type="text" id="guessField" class="guessField">
             <input type="submit" id="subt" value="Submit guess" class="guessSubmit">
+            <button type="button" id="reload" class="reload">Reload</button>
         </form>
 
         <div class="resultParas">
             <p >Previous Guesses: <span class="guesses"></span></p>
             <p >Guesses Remaining: <span class="lastResult">10</span></p>
-            <p class="lowOrHi"></p>
+            <p class="lowOrHi" id="finalResult"></p>
         </div>
     </div>
     <script src="chaiaurcode.js"></script>
