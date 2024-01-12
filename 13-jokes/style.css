@@ -11,6 +11,7 @@ body {
 #display-joke {
   font-size: 22px;
   font-family: 'Playfair Display', serif;
+  width: 20rem;
 }
 
 .btn {
